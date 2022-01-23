@@ -1,0 +1,16 @@
+{
+  "name": "test-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "question1.js",
+  "scripts": {
+    "test": "jest",
+    "jest": "jest --watch *.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
